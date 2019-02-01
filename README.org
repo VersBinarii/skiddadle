@@ -6,6 +6,3 @@ It consists of 3 elements:
 ** Vue.js [[https://github.com/VersBinarii/skiddadle/tree/master/skiddadle][webapp]]
 ** Javascript code for lambda function creating S3 policy
 ** Rust code for lambda function using [[https://github.com/awslabs/aws-lambda-rust-runtime][Rust lambda runtime]]
-
-
-The blog post is available [[https://versbinarii.gitlab.io/blog/posts/serverless-app-deployment-aws/][here]].
